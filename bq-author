@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet require-final-newline: nil -*-
 # name: Blockquote author
 # key: bqa
 # contributor: Abizer Nasir abizern@junglecandy.com

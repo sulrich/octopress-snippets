@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet require-final-newline: nil -*-
 # name: Backtick codeblock full
 # key: btcodef
 # contributor: Abizer Nasir abizern@junglecandy.com

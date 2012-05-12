@@ -1,4 +1,4 @@
-# -*- mode: snippet -*-
+# -*- mode: snippet require-final-newline: nil -*-
 # name: Codeblock full
 # key: codeblockf
 # contributor: Abizer Nasir abizern@junglecandy.com
